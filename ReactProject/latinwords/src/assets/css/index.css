@@ -1,0 +1,18 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+.canvas{
+    background-color: #e3f2fd;
+}
+
+.email{
+    float:right;
+    color: black;
+    font-size: 0.9em;
+}
+
+.comment{
+    color: black;
+    font-size: 1.2em;
+}
